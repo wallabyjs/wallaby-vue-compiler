@@ -1,0 +1,1 @@
+Wallaby.js compiler to display code coverage in single file `.vue` components.
