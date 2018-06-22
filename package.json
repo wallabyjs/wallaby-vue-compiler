@@ -1,6 +1,6 @@
 {
   "name": "wallaby-vue-compiler",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "dependencies": {
     "vue-template-compiler": "^2.5.16"
   },
