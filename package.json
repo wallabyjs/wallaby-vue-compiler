@@ -2,7 +2,7 @@
   "name": "wallaby-vue-compiler",
   "version": "1.0.5",
   "peerDependencies": {
-    "vue-template-compiler": "^2.6.6"
+    "vue-template-compiler": "^2.6.10"
   },
   "main": "index.js"
 }
